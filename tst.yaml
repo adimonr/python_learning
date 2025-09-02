@@ -1,0 +1,146 @@
+images:
+# - name: oneui-keycloak-theme-lib
+#   newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/general/oneui/oneui-keycloak-theme-lib
+#   newTag: v0.0.1
+
+# - name: test
+#   newName: 284152145542.dkr.ecr.ap-south-1.amazonaws.com/aritel-test/6dcanvas/test/test-web-portal
+#   newTag: v1
+
+
+# - name: esb-customer-mgmt-svc
+#   newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/canvas/esb/esb-customer-mgmt-svc
+#   newTag: v10.0.0
+
+#- name: esb-external-mgmt-svc
+#  newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/canvas/esb/esb-external-mgmt-svc
+#  newTag: v10.0.38
+#- name: esb-service-mgmt-svc
+ # newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/canvas/esb/esb-service-mgmt-svc
+ # newTag: v10.0.51
+  # - name: rom-core-svc
+  #   newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/rom/rom-core-svc
+  #   newTag: v1.0.01
+
+  #- name: rom-executor-svc
+  #   newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/rom/rom-executor-svc
+  #   newTag: v1.0.01
+
+  # ######################### UPC ################
+  # - name: upc-core-svc
+  #   newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/canvas/upc/upc-core-svc
+  #   newTag: v10.0.11
+
+  # - name: upc-web-portal-ui
+  #   newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/canvas/upc/upc-web-portal-ui
+  #   newTag: v0.0.72
+
+  # ##################################################
+  #- name: esb-service-mgmt-svc
+  #  newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/canvas/esb/esb-service-mgmt-svc
+  #  newTag: v10.0.32
+
+  #- name: esb-service-mgmt-svc
+  # newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/canvas/esb/esb-service-mgmt-svc
+  #newTag: v10.0.27
+  # - name: esb-customer-mgmt-svc
+  #   newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/canvas/esb/esb-customer-mgmt-svc
+  #   newTag: v10.0.02
+
+  # - name: esb-external-mgmt-svc
+  #   newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/canvas/esb/esb-external-mgmt-svc
+  #   newTag: v10.0.39
+
+  # ################# POS IMAGES TAG ###############
+  # - name: pos-accounting-svc
+  #   newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/pos/pos-accounting-svc
+  #   newTag: v1.0.144
+
+  #- name: pos-customer-sales-svc
+  # newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/pos/pos-customer-sales-svc
+  #newTag: v1.0.95
+
+  # - name: pos-store-management-svc
+  #   newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/pos/pos-store-management-svc
+  #   newTag: v1.0.32
+
+  # - name: pos-purchase-order-svc
+  #   newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/pos/pos-purchase-order-svc
+  #   newTag: v1.0.114
+
+  # - name: pos-integrated-mfe
+  #   newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/pos/pos-integrated-mfe
+  #   newTag: v1.0.191
+  ############################################################################################################################
+  #  - name: cpm-integrated-mfe
+  #    newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/cpm/cpm-integrated-mfe
+  #    newTag: v1.0.176
+     
+  #  - name: cpm-channel-partner-svc
+  #    newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/cpm/cpm-channel-partner-svc
+  #    newTag: v1.0.233
+
+   #- name: cpm-notification-svc
+   #  newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/cpm/cpm-notification-svc
+   #  newTag: v1.0.38
+
+  #  - name: cpm-scheduler-svc
+  #    newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/cpm/cpm-scheduler-svc
+  #    newTag: v1.0.67
+
+  #- name: cpm-approval-svc
+  # newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/cpm/cpm-approval-svc
+  #newTag: v1.0.19
+
+  # ###############################
+  # - name: rom-core-svc
+  #   newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/rom/rom-core-svc
+  #   newTag: v1.0.06
+
+  #- name: rom-executor-svc
+  # newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/rom/rom-executor-svc
+  #newTag: v1.0.68
+
+  # - name: rom-integrated-mfe
+  #   newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/rom/rom-integrated-mfe
+  #   newTag: v1.1.13
+  # #########
+
+  # ##################################
+  # - name: arm-integrated-mfe
+  #  newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/arm/arm-integrated-mfe
+  #  newTag: v0.0.28
+
+  #####################################
+
+  #- name: arm-master-definition-svc
+  #  newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/arm/arm-master-definition-svc
+  #  newTag: v0.0.377
+
+
+  # - name: arm-stock-operator-movement-svc
+  #   newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/arm/arm-stock-operator-movement-svc
+  #   newTag: v0.0.226
+
+  - name: arm-bulk-operation-svc
+    newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/arm/arm-bulk-operation-svc
+    newTag: v0.0.20
+
+  # - name: arm-stock-purchase-svc
+  #   newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/arm/arm-stock-purchase-svc
+  #   newTag: v0.0.83
+
+  #- name: arm-integrated-mfe
+  #  newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/ventas/arm/arm-integrated-mfe
+  #  newTag: v0.0.128
+
+  # - name: keycloak-2fa-otp-spi
+  #   newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/general/oneui/oneui-2fa-otp-spi-lib
+  #   newTag: v0.0.2
+
+  # - name: oneui-dynamic-report-loader-mfe
+  #   newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/general/oneui/oneui-dynamic-report-loader-mfe
+  #   newTag: v0.0.1
+  #- name: oneui-kc-idp-auto-link-spi-lib
+  # newName: 284152145542.dkr.ecr.us-east-1.amazonaws.com/airtel-ke-ventas-int-airke/general/oneui/oneui-kc-idp-auto-link-spi-lib
+  #newTag: v0.0.5
